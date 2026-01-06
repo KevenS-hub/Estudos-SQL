@@ -1,3 +1,5 @@
+-- Cálculo de taxa de retenção de clientes 
+
 WITH tb_cliente_primeiro_dia AS (
 
     SELECT DISTINCT IdCliente 
