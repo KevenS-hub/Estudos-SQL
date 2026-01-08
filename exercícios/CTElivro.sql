@@ -11,3 +11,6 @@ SELECT *
 FROM Produto_valores 
 WHERE avarege_value >= 300
 ORDER BY avarege_value DESC;
+
+-- SELECT * FROM transacao_produto;
+-- WHERE vlproduto >= 300;
